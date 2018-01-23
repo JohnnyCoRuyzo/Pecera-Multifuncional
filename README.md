@@ -43,10 +43,14 @@ La carpeta ChibiOS-RT contiene los scripts del sistema ChibiosOS predeterminado.
 Proyecto desarrollado por:
 
 Johnnatan Nicolás Ruiz   -   jnruizs@unal.edu.co
+
 Jimmy Ferney Londoño     -   yflondonohe@unal.edu.co
+
 Juan Pablo Paredes       -   jpparedesg@unal.edu.co
 
 
 Estudiantes de la Universidad Nacional de Colombia sede Bogota.
+
 Materia: Sistemas Embebidos.
+
 Profesor: Carlos Camargo.
